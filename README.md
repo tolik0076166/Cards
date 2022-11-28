@@ -1,1 +1,1 @@
-# Cards
+# Simple cards layout.  from the layout https://www.figma.com/file/yG5BjQ9dv0VVd4girlxwUZ/Cards. There where cards are not divided into columns or rows, all cards lie inside the same parent.

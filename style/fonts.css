@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+
+
+.title{
+    font-family: 'Roboto-Bold';
+    color: var(--color-text) ;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.description{
+    font-family: 'Roboto-Regular';
+    color: var(--color-text);
+    font-size: 14px;
+    line-height: 18px;
+
+}
+
+.image-text{
+    font-family: 'Roboto-Regular';
+    color:var(--color-image-text);
+    font-size: 14px;
+    line-height: 18px;
+}
+
